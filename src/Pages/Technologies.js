@@ -9,7 +9,6 @@ function Technologies() {
         react,
         tailwind,
         bootstrap,
-        sass,
         vscode,
         git,
         github,
