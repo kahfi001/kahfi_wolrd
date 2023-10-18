@@ -93,8 +93,6 @@ export const techStackDetails = {
     css: css,
     js: js,
     react: react,
-    // redux: redux,
-    // sass: sass,
     php: php,
     laravel: laravel,
     tailwind: tailwind,
