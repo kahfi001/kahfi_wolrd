@@ -7,12 +7,10 @@ import profile from './assets/profile.png';
 // Tech stack images
 import html from './assets/techstack/html.png';
 import css from './assets/techstack/css.png';
-import sass from './assets/techstack/sass.png';
 import js from './assets/techstack/js.png';
 import php from './assets/techstack/php.png';
 import laravel from './assets/techstack/laravel.png';
 import react from './assets/techstack/react.png';
-import redux from './assets/techstack/redux.png';
 import tailwind from './assets/techstack/tailwind.png';
 import bootstrap from './assets/techstack/bootstrap.png';
 import vscode from './assets/techstack/vscode.png';
@@ -27,7 +25,6 @@ import projectImage2 from './assets/projects/project2.jpg';
 import projectImage3 from './assets/projects/project3.jpg';
 import projectImage4 from './assets/projects/project7.jpg';
 import projectImage5 from './assets/projects/project8.png';
-import projectImage6 from './assets/projects/project6.jpg';
 
 // Logos
 export const logos = {
